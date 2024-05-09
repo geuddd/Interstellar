@@ -164,7 +164,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 })
 // Splash
 let SplashT = [
-  "👑Lennon Beavers is king👑",
+  "👑 Lennon Beavers is king 👑",
 ]
 
 let SplashI = Math.floor(Math.random() * SplashT.length)
