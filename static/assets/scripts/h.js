@@ -164,16 +164,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 })
 // Splash
 let SplashT = [
-  "Short for UV!",
-  "#suspendfelixsalman",
-  "Dont watch p0rn!",
-  "Lennon Beavers is king",
-  "Unblocked Games Paradise!",
-  "Will Roblox ever work?",
-  "The real deal!",
-  "Unblock anything!",
-  "Check out the settings page",
-  "Try out the games/apps!",
+  "👑Lennon Beavers is king👑",
 ]
 
 let SplashI = Math.floor(Math.random() * SplashT.length)
